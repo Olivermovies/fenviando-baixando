@@ -11,7 +11,7 @@ Repositório utilizado para armazenar resumos sobre git e Github do curso Versio
 ## 🛴 Resumos das Aulas 
 |Aulas | Resumos |
 |---------|---------|
-|Gravando alterações|[resumos]()|
+|Gravando alterações|[resumos](https://git-scm.com/doc)|
 
 ```
 git init 
